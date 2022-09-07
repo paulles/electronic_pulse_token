@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653027624 source:d:\aplikasi_counter_pulsa\app_pulsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
